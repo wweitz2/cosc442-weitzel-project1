@@ -1,5 +1,6 @@
 package edu.towson.cis.cosc442.project1.monopoly;
 
+//Pushed down and then pulled up members of this class
 public abstract class Cell {
 	private boolean available = true;
 	private String name;
